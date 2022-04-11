@@ -8,4 +8,303 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>D:\Work\Web site\Relese File</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/29/2022 11:45:13</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/29/2022 11:45:15</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/29/2022 11:45:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>01/29/2022 11:45:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>01/29/2022 11:45:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>01/29/2022 11:45:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/29/2022 11:45:14</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/29/2022 11:45:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/29/2022 11:45:12</publishTime>
+    </File>
+    <File Include="bin/WebApp3.dll">
+      <publishTime>04/11/2022 11:20:20</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/29/2022 11:45:13</publishTime>
+    </File>
+    <File Include="Content/About.css">
+      <publishTime>02/01/2022 16:24:43</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/29/2022 11:53:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>01/29/2022 11:53:08</publishTime>
+    </File>
+    <File Include="Content/Contact.css">
+      <publishTime>04/07/2022 15:27:52</publishTime>
+    </File>
+    <File Include="Content/fontawesome.css">
+      <publishTime>01/29/2022 11:55:36</publishTime>
+    </File>
+    <File Include="Content/fontawesome.min.css">
+      <publishTime>01/29/2022 11:55:36</publishTime>
+    </File>
+    <File Include="Content/navbar-fixed.css">
+      <publishTime>01/29/2022 11:53:58</publishTime>
+    </File>
+    <File Include="Content/Services.css">
+      <publishTime>02/03/2022 23:46:39</publishTime>
+    </File>
+    <File Include="Content/slick-theme.css">
+      <publishTime>02/01/2022 11:50:40</publishTime>
+    </File>
+    <File Include="Content/slick.css">
+      <publishTime>02/01/2022 11:50:40</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>04/11/2022 11:16:10</publishTime>
+    </File>
+    <File Include="Content/uikit.min.css">
+      <publishTime>01/29/2022 22:00:13</publishTime>
+    </File>
+    <File Include="Content/Vlog.css">
+      <publishTime>02/04/2022 00:22:05</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>01/29/2022 11:45:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/29/2022 11:45:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/29/2022 11:45:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/29/2022 11:45:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/29/2022 11:45:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/29/2022 11:45:05</publishTime>
+    </File>
+    <File Include="img/bg %2810%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %2815%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %2817%29.jpg">
+      <publishTime>02/01/2022 16:34:22</publishTime>
+    </File>
+    <File Include="img/bg %2818%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %282%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %2820%29.JPG">
+      <publishTime>01/29/2022 22:20:21</publishTime>
+    </File>
+    <File Include="img/bg %2821%29.JPG">
+      <publishTime>01/29/2022 22:20:21</publishTime>
+    </File>
+    <File Include="img/bg %2822%29.JPG">
+      <publishTime>01/29/2022 22:22:18</publishTime>
+    </File>
+    <File Include="img/bg %2824%29.JPG">
+      <publishTime>02/01/2022 10:36:04</publishTime>
+    </File>
+    <File Include="img/bg %2826%29.JPG">
+      <publishTime>01/29/2022 22:44:36</publishTime>
+    </File>
+    <File Include="img/bg %2827%29.jpg">
+      <publishTime>01/29/2022 22:44:37</publishTime>
+    </File>
+    <File Include="img/bg %2828%29.jpg">
+      <publishTime>01/29/2022 22:47:34</publishTime>
+    </File>
+    <File Include="img/bg %283%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %288%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/bg %289%29.jpg">
+      <publishTime>01/29/2022 11:56:58</publishTime>
+    </File>
+    <File Include="img/icon1.jpg">
+      <publishTime>01/29/2022 12:06:55</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/29/2022 11:45:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/29/2022 11:51:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/29/2022 11:51:59</publishTime>
+    </File>
+    <File Include="Scripts/fontawesome.js">
+      <publishTime>01/29/2022 11:56:00</publishTime>
+    </File>
+    <File Include="Scripts/fontawesome.min.js">
+      <publishTime>01/29/2022 11:56:00</publishTime>
+    </File>
+    <File Include="Scripts/main.js">
+      <publishTime>02/01/2022 11:59:26</publishTime>
+    </File>
+    <File Include="Scripts/navbar-fixed.js">
+      <publishTime>01/29/2022 11:54:09</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js">
+      <publishTime>01/29/2022 12:31:47</publishTime>
+    </File>
+    <File Include="Scripts/slick.js">
+      <publishTime>02/01/2022 11:52:17</publishTime>
+    </File>
+    <File Include="Scripts/slick.min.js">
+      <publishTime>02/01/2022 11:52:17</publishTime>
+    </File>
+    <File Include="Scripts/uikit-icons.min.js">
+      <publishTime>01/29/2022 22:01:40</publishTime>
+    </File>
+    <File Include="Scripts/uikit.min.js">
+      <publishTime>01/29/2022 22:01:40</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>02/01/2022 16:17:34</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>02/04/2022 00:21:34</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>04/11/2022 11:16:34</publishTime>
+    </File>
+    <File Include="Views/Home/Services.cshtml">
+      <publishTime>02/03/2022 16:00:39</publishTime>
+    </File>
+    <File Include="Views/Home/Vlog.cshtml">
+      <publishTime>02/03/2022 23:50:24</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>01/29/2022 11:45:15</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>01/29/2022 11:45:15</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>04/07/2022 19:22:32</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>01/29/2022 11:45:15</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>01/29/2022 11:45:05</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>01/29/2022 11:45:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/11/2022 11:20:20</publishTime>
+    </File>
+  </ItemGroup>
 </Project>
